@@ -21,5 +21,6 @@ Color Inversion
 A combined image showing all results
 
 Output contains:
-Input image
-Processed images
+Input image - rose.png
+Processed images - processed_results.png
+output of the code screen short also provided here
